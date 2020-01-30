@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="pj1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/pj1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/pj1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="common.h" />
+		<Unit filename="erlcommon.h" />
+		<Unit filename="interrupts.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interrupts.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mcb02.h" />
+		<Unit filename="mcb03.h" />
+		<Unit filename="mcb_driver.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mcb_pci_driver.h" />
+		<Unit filename="mcb_pci_io.h" />
+		<Unit filename="mcb_pci_public.h" />
+		<Unit filename="memory_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memory_manager.h" />
+		<Unit filename="swic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swic.h" />
+		<Unit filename="tests.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tests.h" />
+		<Unit filename="tinyalloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tinyalloc.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

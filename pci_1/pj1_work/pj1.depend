@@ -1,0 +1,422 @@
+# depslib dependency file v1.0
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\common.c
+	"common.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\common.h
+	"mcb_pci_driver.h"
+	"erlcommon.h"
+	<stdio.h>
+
+1568284137 c:\work_m54\pci_spacewire\pci_v2\pj1\mcb_pci_driver.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\erlcommon.h
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\interrupts.c
+	"interrupts.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\interrupts.h
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+
+1568285409 c:\work_m54\pci_spacewire\pci_v2\pj1\memory_manager.h
+	"mcb02.h"
+	"tinyalloc.h"
+	"common.h"
+	"mcb_pci_driver.h"
+	"swic.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\mcb02.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\tinyalloc.h
+	<stdbool.h>
+	<stddef.h>
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\swic.h
+	<stdio.h>
+	"erlcommon.h"
+	"mcb02.h"
+	"mcb_pci_driver.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\mcb_driver.c
+	<windows.h>
+	<tchar.h>
+	<strsafe.h>
+	<setupapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<devguid.h>
+	<inttypes.h>
+	"mcb_pci_io.h"
+	"mcb_pci_public.h"
+	"mcb_pci_driver.h"
+	"mcb03.h"
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\mcb_pci_io.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\mcb_pci_public.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\mcb03.h
+
+1568285325 source:c:\work_m54\pci_spacewire\pci_v2\pj1\memory_manager.c
+	"memory_manager.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\swic.c
+	"swic.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\tests.c
+	"tests.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_v2\pj1\tests.h
+	"mcb02.h"
+	<stdlib.h>
+	<unistd.h>
+	<sys/time.h>
+	"mcb_pci_driver.h"
+	"swic.h"
+	"memory_manager.h"
+	"common.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_v2\pj1\tinyalloc.c
+	"tinyalloc.h"
+	<stdint.h>
+
+1568284836 source:c:\work_m54\pci_spacewire\pci_v2\pj1\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+	"interrupts.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1\common.c
+	"common.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\common.h
+	"mcb_pci_driver.h"
+	"erlcommon.h"
+	<stdio.h>
+
+1568900455 c:\work_m54\pci_spacewire\pci_1\pj1\mcb_pci_driver.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\erlcommon.h
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1\interrupts.c
+	"interrupts.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\interrupts.h
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+
+1568902261 c:\work_m54\pci_spacewire\pci_1\pj1\memory_manager.h
+	"mcb02.h"
+	"tinyalloc.h"
+	"common.h"
+	"mcb_pci_driver.h"
+	"swic.h"
+
+1568646190 c:\work_m54\pci_spacewire\pci_1\pj1\mcb02.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\tinyalloc.h
+	<stdbool.h>
+	<stddef.h>
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\swic.h
+	<stdio.h>
+	"erlcommon.h"
+	"mcb02.h"
+	"mcb_pci_driver.h"
+
+1569329618 source:c:\work_m54\pci_spacewire\pci_1\pj1\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+	"interrupts.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1\mcb_driver.c
+	<windows.h>
+	<tchar.h>
+	<strsafe.h>
+	<setupapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<devguid.h>
+	<inttypes.h>
+	"mcb_pci_io.h"
+	"mcb_pci_public.h"
+	"mcb_pci_driver.h"
+	"mcb03.h"
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\mcb_pci_io.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\mcb_pci_public.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\mcb03.h
+
+1568357112 source:c:\work_m54\pci_spacewire\pci_1\pj1\swic.c
+	"swic.h"
+
+1569335163 source:c:\work_m54\pci_spacewire\pci_1\pj1\tests.c
+	"tests.h"
+	"string.h"
+	<Windows.h>
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1\tests.h
+	"mcb02.h"
+	<stdlib.h>
+	<unistd.h>
+	<sys/time.h>
+	"mcb_pci_driver.h"
+	"swic.h"
+	"memory_manager.h"
+	"common.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1\tinyalloc.c
+	"tinyalloc.h"
+	<stdint.h>
+
+1568380811 source:c:\work_m54\pci_spacewire\pci_1\pj1\memory_manager.c
+	"memory_manager.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\common.c
+	"common.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\common.h
+	"mcb_pci_driver.h"
+	"erlcommon.h"
+	<stdio.h>
+
+1568900455 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb_pci_driver.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\erlcommon.h
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\interrupts.c
+	"interrupts.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\interrupts.h
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+
+1568902261 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\memory_manager.h
+	"mcb02.h"
+	"tinyalloc.h"
+	"common.h"
+	"mcb_pci_driver.h"
+	"swic.h"
+
+1568646190 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb02.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\tinyalloc.h
+	<stdbool.h>
+	<stddef.h>
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\swic.h
+	<stdio.h>
+	"erlcommon.h"
+	"mcb02.h"
+	"mcb_pci_driver.h"
+
+1569396775 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+	"interrupts.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb_driver.c
+	<windows.h>
+	<tchar.h>
+	<strsafe.h>
+	<setupapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<devguid.h>
+	<inttypes.h>
+	"mcb_pci_io.h"
+	"mcb_pci_public.h"
+	"mcb_pci_driver.h"
+	"mcb03.h"
+	"mcb02.h"
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb_pci_io.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb_pci_public.h
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\mcb03.h
+
+1568380811 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\memory_manager.c
+	"memory_manager.h"
+
+1568357112 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\swic.c
+	"swic.h"
+
+1567421935 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\tinyalloc.c
+	"tinyalloc.h"
+	<stdint.h>
+
+1569408682 source:c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\tests.c
+	"tests.h"
+	"string.h"
+	<Windows.h>
+
+1567421935 c:\work_m54\pci_spacewire\pci_1\pj1_test\pj1\tests.h
+	"mcb02.h"
+	<stdlib.h>
+	<unistd.h>
+	<sys/time.h>
+	"mcb_pci_driver.h"
+	"swic.h"
+	"memory_manager.h"
+	"common.h"
+
+1567418336 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\common.c
+	"common.h"
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\common.h
+	"mcb_pci_driver.h"
+	"erlcommon.h"
+	<stdio.h>
+
+1568896856 c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb_pci_driver.h
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\erlcommon.h
+
+1574434853 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\interrupts.c
+	"interrupts.h"
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\interrupts.h
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+
+1580375459 c:\work_m54\pci_spacewire\pci_1\pj1_work\memory_manager.h
+	"mcb02.h"
+	"tinyalloc.h"
+	"common.h"
+	"mcb_pci_driver.h"
+	"swic.h"
+
+1568642592 c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb02.h
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\tinyalloc.h
+	<stdbool.h>
+	<stddef.h>
+	"mcb02.h"
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\swic.h
+	<stdio.h>
+	"erlcommon.h"
+	"mcb02.h"
+	"mcb_pci_driver.h"
+
+1574434871 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"mcb_pci_driver.h"
+	"memory_manager.h"
+	"swic.h"
+	"interrupts.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1567418336 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb_driver.c
+	<windows.h>
+	<tchar.h>
+	<strsafe.h>
+	<setupapi.h>
+	<stdio.h>
+	<stdlib.h>
+	<devguid.h>
+	<inttypes.h>
+	"mcb_pci_io.h"
+	"mcb_pci_public.h"
+	"mcb_pci_driver.h"
+	"mcb03.h"
+	"mcb02.h"
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb_pci_io.h
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb_pci_public.h
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\mcb03.h
+
+1575022905 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\memory_manager.c
+	"memory_manager.h"
+
+1568353514 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\swic.c
+	"swic.h"
+
+1567418336 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\tinyalloc.c
+	"tinyalloc.h"
+	<stdint.h>
+
+1580378054 source:c:\work_m54\pci_spacewire\pci_1\pj1_work\tests.c
+	"tests.h"
+	"string.h"
+	<Windows.h>
+	<MATH.h>
+
+1567418336 c:\work_m54\pci_spacewire\pci_1\pj1_work\tests.h
+	"mcb02.h"
+	<stdlib.h>
+	<unistd.h>
+	<sys/time.h>
+	"mcb_pci_driver.h"
+	"swic.h"
+	"memory_manager.h"
+	"common.h"
+
